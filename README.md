@@ -85,6 +85,11 @@ The study area is Chennai, Tamil Nadu, India.
 | IoU       | 0.6758 |
 
 ---
+## Google Colab Notebook
+
+https://colab.research.google.com/drive/1yI1dhh97m8ZFpuOnsiThcBCfVE02aMXQ#scrollTo=i_eV3kBXikKZ
+
+---
 
 # Key Insights
 
